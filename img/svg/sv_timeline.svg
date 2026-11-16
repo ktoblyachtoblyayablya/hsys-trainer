@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" role="img"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker><marker id="ahs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs><rect width="760" height="300" fill="#ffffff"/><line x1="40" y1="150" x2="740" y2="150" stroke="#0b0b0b" stroke-width="2" marker-end="url(#ah)"/>
+<circle cx="52.0" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="52.0" y1="144" x2="52.0" y2="116" stroke="#e3e2de" stroke-width="1"/>
+<text x="52.0" y="80" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">1999</text>
+<text x="52.0" y="95" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">GeForce 256 —</text>
+<text x="52.0" y="108" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">«первый GPU»</text>
+<circle cx="103.4" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="103.38461538461539" y1="156" x2="103.38461538461539" y2="184" stroke="#e3e2de" stroke-width="1"/>
+<text x="103.38461538461539" y="200" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2001</text>
+<text x="103.38461538461539" y="214" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">GeForce 3:</text>
+<text x="103.38461538461539" y="227" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">шейдеры</text>
+<circle cx="154.8" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="154.76923076923077" y1="144" x2="154.76923076923077" y2="116" stroke="#e3e2de" stroke-width="1"/>
+<text x="154.76923076923077" y="80" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2003</text>
+<text x="154.76923076923077" y="95" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">BrookGPU,</text>
+<text x="154.76923076923077" y="108" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">gpgpu.org (2002)</text>
+<circle cx="206.2" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="206.15384615384616" y1="156" x2="206.15384615384616" y2="184" stroke="#e3e2de" stroke-width="1"/>
+<text x="206.15384615384616" y="200" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2006</text>
+<text x="206.15384615384616" y="214" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">G80, CTM;</text>
+<text x="206.15384615384616" y="227" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">AMD + ATI</text>
+<circle cx="257.5" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="257.53846153846155" y1="144" x2="257.53846153846155" y2="116" stroke="#e3e2de" stroke-width="1"/>
+<text x="257.53846153846155" y="80" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2007</text>
+<text x="257.53846153846155" y="95" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">CUDA 1.0,</text>
+<text x="257.53846153846155" y="108" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">Tesla C870</text>
+<circle cx="308.9" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="308.9230769230769" y1="156" x2="308.9230769230769" y2="184" stroke="#e3e2de" stroke-width="1"/>
+<text x="308.9230769230769" y="200" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2008</text>
+<text x="308.9230769230769" y="214" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">OpenCL 1.0</text>
+<text x="308.9230769230769" y="227" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e"></text>
+<circle cx="360.3" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="360.3076923076923" y1="144" x2="360.3076923076923" y2="116" stroke="#e3e2de" stroke-width="1"/>
+<text x="360.3076923076923" y="80" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2010</text>
+<text x="360.3076923076923" y="95" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">Fermi;</text>
+<text x="360.3076923076923" y="108" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">Тяньхэ-1A № 1</text>
+<circle cx="411.7" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="411.6923076923077" y1="156" x2="411.6923076923077" y2="184" stroke="#e3e2de" stroke-width="1"/>
+<text x="411.6923076923077" y="200" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2012</text>
+<text x="411.6923076923077" y="214" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">Kepler; Titan</text>
+<text x="411.6923076923077" y="227" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">№ 1, GCN у AMD</text>
+<circle cx="463.1" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="463.0769230769231" y1="144" x2="463.0769230769231" y2="116" stroke="#e3e2de" stroke-width="1"/>
+<text x="463.0769230769231" y="80" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2016</text>
+<text x="463.0769230769231" y="95" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">Pascal P100;</text>
+<text x="463.0769230769231" y="108" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">ROCm</text>
+<circle cx="514.5" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="514.4615384615385" y1="156" x2="514.4615384615385" y2="184" stroke="#e3e2de" stroke-width="1"/>
+<text x="514.4615384615385" y="200" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2017</text>
+<text x="514.4615384615385" y="214" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">Volta V100:</text>
+<text x="514.4615384615385" y="227" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">тензорные ядра</text>
+<circle cx="565.8" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="565.8461538461538" y1="144" x2="565.8461538461538" y2="116" stroke="#e3e2de" stroke-width="1"/>
+<text x="565.8461538461538" y="80" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2020</text>
+<text x="565.8461538461538" y="95" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">Ampere A100;</text>
+<text x="565.8461538461538" y="108" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">CDNA MI100</text>
+<circle cx="617.2" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="617.2307692307693" y1="156" x2="617.2307692307693" y2="184" stroke="#e3e2de" stroke-width="1"/>
+<text x="617.2307692307693" y="200" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2022</text>
+<text x="617.2307692307693" y="214" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">Hopper H100;</text>
+<text x="617.2307692307693" y="227" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">Frontier — 1 Эфлопс</text>
+<circle cx="668.6" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="668.6153846153846" y1="144" x2="668.6153846153846" y2="116" stroke="#e3e2de" stroke-width="1"/>
+<text x="668.6153846153846" y="80" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2024</text>
+<text x="668.6153846153846" y="95" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">Blackwell;</text>
+<text x="668.6153846153846" y="108" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e">El Capitan MI300A</text>
+<circle cx="720.0" cy="150" r="4.5" fill="#1d5bbf"/>
+<line x1="720.0" y1="156" x2="720.0" y2="184" stroke="#e3e2de" stroke-width="1"/>
+<text x="720.0" y="200" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="700" fill="#0b0b0b">2026</text>
+<text x="720.0" y="214" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#0b0b0b">Rubin, MI400</text>
+<text x="720.0" y="227" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="400" fill="#52514e"></text>
+<text x="380" y="24" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="700" fill="#0b0b0b">От графических шейдеров к вычислительным ускорителям</text>
+<text x="380" y="286" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="400" fill="#52514e">до 2006 г. GPGPU — «обман» графического конвейера: данные в текстурах, расчёт в шейдерах</text></svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" width="760" height="250" role="img"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker><marker id="ahs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs><rect width="760" height="250" fill="#ffffff"/><text x="380" y="20" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="13" text-anchor="middle" font-weight="700" fill="#0b0b0b">Расхождение варпа: if (lane &lt; 16) A(); else B();</text>
+<text x="100" y="58" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400" fill="#52514e">такт 1–k</text>
+<text x="100" y="98" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400" fill="#52514e">такт k+1–2k</text>
+<rect x="110" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="110" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="128" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="128" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="146" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="146" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="164" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="164" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="182" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="182" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="200" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="200" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="218" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="218" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="236" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="236" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="254" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="254" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="272" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="272" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="290" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="290" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="308" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="308" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="326" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="326" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="344" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="344" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="362" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="362" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="380" y="42" width="15" height="24" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1"/>
+<rect x="380" y="82" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="398" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="398" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="416" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="416" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="434" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="434" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="452" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="452" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="470" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="470" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="488" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="488" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="506" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="506" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="524" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="524" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="542" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="542" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="560" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="560" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="578" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="578" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="596" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="596" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="614" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="614" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="632" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="632" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="650" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="650" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<rect x="668" y="42" width="15" height="24" rx="2" fill="#ffffff" stroke="#8a8986" stroke-width="1"/>
+<rect x="668" y="82" width="15" height="24" rx="2" fill="#fdeee6" stroke="#c4501b" stroke-width="1"/>
+<text x="254" y="138" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="400" fill="#1d7a47">A(): нити 0–15 активны, 16–31 замаскированы</text>
+<text x="542" y="158" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="400" fill="#c4501b">B(): наоборот</text>
+<text x="380" y="198" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="400" fill="#52514e">Ветви выполняются по очереди — время ≈ A + B. Если условие одинаково для всего варпа</text>
+<text x="380" y="216" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="400" fill="#52514e">(например, зависит от номера варпа, а не нити), расхождения нет</text>
+<text x="380" y="240" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="400" fill="#52514e">в работе 4 условие выхода одинаково для всех 32 нитей варпа — «варп выходит целиком»</text></svg>

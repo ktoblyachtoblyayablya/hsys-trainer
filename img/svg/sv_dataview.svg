@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker><marker id="ahs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs><rect width="760" height="400" fill="#ffffff"/><rect x="230" y="14" width="300" height="122" rx="4" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="380.0" y="32" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="12.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">Vector&lt;AtomT&gt;  «фасад»</text>
+<line x1="230" y1="40" x2="530" y2="40" stroke="#a87400" stroke-width="1"/>
+<text x="238" y="55" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">- data_ : shared_ptr&lt;Data&lt;AtomT&gt;&gt;</text>
+<text x="238" y="71" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">- view_ : VectorView&lt;AtomT&gt;</text>
+<line x1="230" y1="80" x2="530" y2="80" stroke="#a87400" stroke-width="1"/>
+<text x="238" y="95" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">+ Vector(size)</text>
+<text x="238" y="111" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">+ size(), data(), view()</text>
+<text x="238" y="127" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">+ operator+(a, b) : Vector</text>
+<rect x="20" y="210" width="330" height="138" rx="4" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="185.0" y="228" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="12.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">Data&lt;AtomT&gt;  «владелец, RAII»</text>
+<line x1="20" y1="236" x2="350" y2="236" stroke="#1d5bbf" stroke-width="1"/>
+<text x="28" y="251" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">- size_ : size_t</text>
+<text x="28" y="267" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">- data_ : AtomT*</text>
+<line x1="20" y1="276" x2="350" y2="276" stroke="#1d5bbf" stroke-width="1"/>
+<text x="28" y="291" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">+ Data(size)       // cudaMalloc</text>
+<text x="28" y="307" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">+ копирование и перемещение</text>
+<text x="28" y="323" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">+ copy_to_host / copy_from_host</text>
+<text x="28" y="339" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">+ ~Data()          // cudaFree</text>
+<rect x="410" y="210" width="330" height="122" rx="4" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="575.0" y="228" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="12.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">VectorView&lt;AtomT&gt;  «представление»</text>
+<line x1="410" y1="236" x2="740" y2="236" stroke="#1d7a47" stroke-width="1"/>
+<text x="418" y="251" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">- data_ : AtomT*</text>
+<text x="418" y="267" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">- size_ : size_t</text>
+<line x1="410" y1="276" x2="740" y2="276" stroke="#1d7a47" stroke-width="1"/>
+<text x="418" y="291" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">__host__ __device__ size()</text>
+<text x="418" y="307" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">__host__ __device__ operator[](i)</text>
+<text x="418" y="323" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="start" font-weight="400" fill="#0b0b0b">тривиально копируемый</text>
+<line x1="320" y1="136" x2="185" y2="210" stroke="#52514e" stroke-width="1.5"/>
+<polygon points="320.0,136.0 309.2,135.1 304.2,144.7 315.0,145.6" fill="#ffffff" stroke="#52514e" stroke-width="1.4"/>
+<line x1="440" y1="136" x2="575" y2="210" stroke="#52514e" stroke-width="1.5"/>
+<polygon points="440.0,136.0 445.0,145.6 455.8,144.7 450.8,135.1" fill="#52514e" stroke="#52514e" stroke-width="1.4"/>
+<text x="20" y="160" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="start" font-weight="400" fill="#52514e">агрегация (shared_ptr):</text>
+<text x="20" y="175" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="start" font-weight="400" fill="#52514e">данные могут делить</text>
+<text x="20" y="190" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="start" font-weight="400" fill="#52514e">несколько векторов</text>
+<text x="740" y="160" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400" fill="#52514e">композиция:</text>
+<text x="740" y="175" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400" fill="#52514e">у каждого Vector</text>
+<text x="740" y="190" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="end" font-weight="400" fill="#52514e">своё представление</text>
+<rect x="410" y="352" width="330" height="40" rx="6" fill="#f2f2f0" stroke="#8a8986" stroke-width="1.4"/>
+<text x="575.0" y="368.70000000000005" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="600" fill="#0b0b0b">kernel_vecadd(VectorView a, b, c)</text>
+<text x="575.0" y="383.00000000000006" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="400" fill="#52514e">представления передаются по значению</text>
+<line x1="575" y1="332" x2="575" y2="352" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="185" y="380" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="400" fill="#52514e">cudaMalloc / cudaFree — только в Data</text></svg>

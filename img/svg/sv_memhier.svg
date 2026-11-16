@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker><marker id="ahs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs><rect width="760" height="400" fill="#ffffff"/><rect x="14" y="14" width="540" height="230" rx="10" fill="#f2f2f0" stroke="#8a8986" stroke-width="1.4"/>
+<text x="30" y="34" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="13" text-anchor="start" font-weight="700" fill="#0b0b0b">Устройство (GPU)</text>
+<rect x="30" y="44" width="248" height="186" rx="8" fill="#fdeee6" stroke="#c4501b" stroke-width="1.4"/>
+<text x="154" y="62" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Блок (0, 0)</text>
+<rect x="42" y="70" width="224" height="30" rx="6" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="154.0" y="89.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Разделяемая память (shared)</text>
+<rect x="42" y="112" width="108" height="30" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="96.0" y="131.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Регистры</text>
+<rect x="42" y="150" width="108" height="30" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="96.0" y="169.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Нить (0, 0)</text>
+<rect x="42" y="190" width="108" height="30" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="96.0" y="208.85" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="600" fill="#0b0b0b">Локальная</text>
+<line x1="96" y1="150" x2="96" y2="142" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="96" y1="180" x2="96" y2="190" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="96" y1="112" x2="96" y2="100" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="158" y="112" width="108" height="30" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="212.0" y="131.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Регистры</text>
+<rect x="158" y="150" width="108" height="30" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="212.0" y="169.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Нить (1, 0)</text>
+<rect x="158" y="190" width="108" height="30" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="212.0" y="208.85" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="600" fill="#0b0b0b">Локальная</text>
+<line x1="212" y1="150" x2="212" y2="142" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="212" y1="180" x2="212" y2="190" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="212" y1="112" x2="212" y2="100" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="292" y="44" width="248" height="186" rx="8" fill="#fdeee6" stroke="#c4501b" stroke-width="1.4"/>
+<text x="416" y="62" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Блок (1, 0)</text>
+<rect x="304" y="70" width="224" height="30" rx="6" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="416.0" y="89.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Разделяемая память (shared)</text>
+<rect x="304" y="112" width="108" height="30" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="358.0" y="131.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Регистры</text>
+<rect x="304" y="150" width="108" height="30" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="358.0" y="169.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Нить (0, 0)</text>
+<rect x="304" y="190" width="108" height="30" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="358.0" y="208.85" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="600" fill="#0b0b0b">Локальная</text>
+<line x1="358" y1="150" x2="358" y2="142" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="358" y1="180" x2="358" y2="190" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="358" y1="112" x2="358" y2="100" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="420" y="112" width="108" height="30" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="474.0" y="131.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Регистры</text>
+<rect x="420" y="150" width="108" height="30" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="474.0" y="169.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Нить (1, 0)</text>
+<rect x="420" y="190" width="108" height="30" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="474.0" y="208.85" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="600" fill="#0b0b0b">Локальная</text>
+<line x1="474" y1="150" x2="474" y2="142" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="474" y1="180" x2="474" y2="190" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<line x1="474" y1="112" x2="474" y2="100" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="30" y="256" width="508" height="34" rx="6" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="284.0" y="277.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">Глобальная память (global) — DRAM, видна всем нитям и хосту</text>
+<rect x="30" y="298" width="250" height="32" rx="6" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="155.0" y="318.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Константная (64 КБ, кэш)</text>
+<rect x="288" y="298" width="250" height="32" rx="6" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="413.0" y="318.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Текстурная (кэш, 2D)</text>
+<rect x="590" y="256" width="156" height="74" rx="6" fill="#f2f2f0" stroke="#8a8986" stroke-width="1.4"/>
+<text x="668.0" y="281.59999999999997" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">Память хоста</text>
+<text x="668.0" y="297.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">cudaMemcpy</text>
+<text x="668.0" y="312.79999999999995" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">по PCIe / NVLink</text>
+<line x1="538" y1="273" x2="590" y2="273" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<text x="650" y="34" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="700" fill="#0b0b0b">задержка доступа</text>
+<text x="586" y="60" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="600" fill="#0b0b0b">регистры</text>
+<text x="586" y="76" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start" font-weight="400" fill="#52514e">≈ 1 такт</text>
+<text x="586" y="94" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="600" fill="#0b0b0b">shared, L1</text>
+<text x="586" y="110" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start" font-weight="400" fill="#52514e">≈ 20–30 тактов</text>
+<text x="586" y="128" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="600" fill="#0b0b0b">L2</text>
+<text x="586" y="144" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start" font-weight="400" fill="#52514e">≈ 200 тактов</text>
+<text x="586" y="162" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="600" fill="#0b0b0b">global (DRAM)</text>
+<text x="586" y="178" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start" font-weight="400" fill="#52514e">≈ 400–800 тактов</text>
+<text x="586" y="196" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" font-weight="600" fill="#0b0b0b">хост (PCIe)</text>
+<text x="586" y="212" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start" font-weight="400" fill="#52514e">мкс</text>
+<text x="380" y="362" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="400" fill="#52514e">Регистры и локальная — у нити, shared — у блока, global / constant / texture — у всей сетки</text>
+<text x="380" y="384" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="400" fill="#52514e">Локальная память физически лежит в DRAM: туда «вытесняются» регистры (register spilling)</text></svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 412" width="760" height="412" role="img"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker><marker id="ahs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs><rect width="760" height="412" fill="#ffffff"/><rect x="14" y="14" width="200" height="190" rx="10" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="114" y="34" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">Узел доступа</text>
+<rect x="26" y="46" width="176" height="70" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="114.0" y="71.02499999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">job.pbs</text>
+<text x="114.0" y="84.675" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="9.0" text-anchor="middle" font-weight="400" fill="#52514e">#PBS -l nodes=2:ppn=8:gpus=2</text>
+<text x="114.0" y="98.32499999999999" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="9.0" text-anchor="middle" font-weight="400" fill="#52514e">#PBS -l walltime=01:00:00</text>
+<text x="114" y="140" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11.5" text-anchor="middle" font-weight="400" fill="#0b0b0b">$ qsub job.pbs</text>
+<text x="114" y="160" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11.5" text-anchor="middle" font-weight="400" fill="#0b0b0b">$ qstat -u $USER</text>
+<text x="114" y="180" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11.5" text-anchor="middle" font-weight="400" fill="#0b0b0b">$ qdel 1234</text>
+<rect x="270" y="14" width="300" height="190" rx="10" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="420" y="34" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">Управляющий узел</text>
+<rect x="286" y="46" width="268" height="58" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="420.0" y="71.55000000000001" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">pbs_server</text>
+<text x="420.0" y="86.50000000000001" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.0" text-anchor="middle" font-weight="400" fill="#52514e">очереди, задания, состояние узлов</text>
+<rect x="286" y="128" width="268" height="62" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="420.0" y="155.55" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Планировщик</text>
+<text x="420.0" y="170.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.0" text-anchor="middle" font-weight="400" fill="#52514e">pbs_sched (FIFO) · Maui · Moab</text>
+<line x1="390" y1="104" x2="390" y2="128" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<text x="398" y="120" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400" fill="#52514e">кого и куда запускать</text>
+<line x1="202" y1="81" x2="286" y2="75" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="244" y="70" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">qsub</text>
+<rect x="40" y="250" width="200" height="92" rx="8" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="140" y="270" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">Вычислительный узел 1</text>
+<rect x="52" y="280" width="176" height="50" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="140.0" y="301.70000000000005" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="600" fill="#0b0b0b">pbs_mom</text>
+<text x="140.0" y="316.00000000000006" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="400" fill="#52514e">запуск, контроль, ресурсы</text>
+<line x1="420" y1="204" x2="140" y2="250" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="280" y="250" width="200" height="92" rx="8" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="380" y="270" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">Вычислительный узел 2</text>
+<rect x="292" y="280" width="176" height="50" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="380.0" y="301.70000000000005" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="600" fill="#0b0b0b">pbs_mom</text>
+<text x="380.0" y="316.00000000000006" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="400" fill="#52514e">запуск, контроль, ресурсы</text>
+<line x1="420" y1="204" x2="380" y2="250" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="520" y="250" width="200" height="92" rx="8" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="620" y="270" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">узел N</text>
+<rect x="532" y="280" width="176" height="50" rx="6" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="620.0" y="301.70000000000005" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="600" fill="#0b0b0b">pbs_mom</text>
+<text x="620.0" y="316.00000000000006" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="400" fill="#52514e">запуск, контроль, ресурсы</text>
+<line x1="420" y1="204" x2="620" y2="250" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)"/>
+<text x="210" y="362" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">первый узел (mother superior) выполняет скрипт,</text>
+<text x="210" y="376" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">список выделенных узлов — в $PBS_NODEFILE</text>
+<rect x="600" y="40" width="146" height="120" rx="6" fill="#f2f2f0" stroke="#8a8986" stroke-width="1.4"/>
+<text x="673.0" y="68.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="600" fill="#0b0b0b">Состояния</text>
+<text x="673.0" y="82.39999999999999" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="400" fill="#52514e">Q — в очереди</text>
+<text x="673.0" y="96.69999999999999" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="400" fill="#52514e">R — выполняется</text>
+<text x="673.0" y="111.0" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="400" fill="#52514e">H — задержано</text>
+<text x="673.0" y="125.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="400" fill="#52514e">E — завершается</text>
+<text x="673.0" y="139.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="400" fill="#52514e">C — завершено</text>
+<text x="380" y="402" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="400" fill="#52514e">Torque — ответвление OpenPBS: сервер, планировщик и MOM-демоны на узлах; Slurm — slurmctld и slurmd</text></svg>

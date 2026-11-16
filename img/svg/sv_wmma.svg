@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380" role="img"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker><marker id="ahs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs><rect width="760" height="380" fill="#ffffff"/><rect x="30" y="120" width="150" height="80" rx="2" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="105" y="112" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">A: 32 строки</text>
+<rect x="200" y="20" width="160" height="80" rx="2" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="280" y="14" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">B: 64 столбца</text>
+<rect x="200" y="120" width="40" height="40" rx="1" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="220.0" y="143.675" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">0,0</text>
+<rect x="240" y="120" width="40" height="40" rx="1" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="260.0" y="143.675" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">1,0</text>
+<rect x="280" y="120" width="40" height="40" rx="1" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="300.0" y="143.675" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">2,0</text>
+<rect x="320" y="120" width="40" height="40" rx="1" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="340.0" y="143.675" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">3,0</text>
+<rect x="200" y="160" width="40" height="40" rx="1" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="220.0" y="183.675" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">0,1</text>
+<rect x="240" y="160" width="40" height="40" rx="1" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="260.0" y="183.675" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">1,1</text>
+<rect x="280" y="160" width="40" height="40" rx="1" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="300.0" y="183.675" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">2,1</text>
+<rect x="320" y="160" width="40" height="40" rx="1" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="340.0" y="183.675" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">3,1</text>
+<text x="280" y="218" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Блок C 32 × 64: 8 варпов</text>
+<text x="280" y="234" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="400" fill="#52514e">каждый — фрагмент 16 × 16</text>
+<text x="280" y="250" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="11" text-anchor="middle" font-weight="400" fill="#52514e">blockDim = (4 · 32, 2) = 256 нитей</text>
+<rect x="400" y="14" width="346" height="268" rx="8" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="573" y="34" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">Что делает один варп</text>
+<text x="412" y="58" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10.5" text-anchor="start" font-weight="400" fill="#0b0b0b">fill_fragment(acc, 0.0f)</text>
+<text x="412" y="72" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400" fill="#52514e">аккумулятор float 16 × 16</text>
+<text x="412" y="90" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10.5" text-anchor="start" font-weight="400" fill="#0b0b0b">for p = 0; p &lt; k; p += 16:</text>
+<text x="412" y="122" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10.5" text-anchor="start" font-weight="400" fill="#0b0b0b">  load_matrix_sync(a_frag, &amp;a(row, p), lda)</text>
+<text x="412" y="136" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400" fill="#52514e">half</text>
+<text x="412" y="154" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10.5" text-anchor="start" font-weight="400" fill="#0b0b0b">  load_matrix_sync(b_frag, &amp;b(p, col), ldb)</text>
+<text x="412" y="168" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400" fill="#52514e">half</text>
+<text x="412" y="186" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10.5" text-anchor="start" font-weight="400" fill="#0b0b0b">  mma_sync(acc, a_frag, b_frag, acc)</text>
+<text x="412" y="200" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400" fill="#52514e">acc += A·B на тензорных ядрах</text>
+<text x="412" y="218" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10.5" text-anchor="start" font-weight="400" fill="#0b0b0b">store_matrix_sync(staging, acc, 16)</text>
+<text x="412" y="232" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400" fill="#52514e">float → shared</text>
+<text x="412" y="250" font-family="DejaVu Sans Mono, Consolas, monospace" font-size="10.5" text-anchor="start" font-weight="400" fill="#0b0b0b">__syncwarp(); c = __float2half(staging)</text>
+<text x="412" y="264" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="start" font-weight="400" fill="#52514e">запись в C (half)</text>
+<rect x="30" y="300" width="716" height="58" rx="6" fill="#f2f2f0" stroke="#8a8986" stroke-width="1.4"/>
+<text x="388.0" y="325.54999999999995" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">Ограничения WMMA</text>
+<text x="388.0" y="340.49999999999994" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.0" text-anchor="middle" font-weight="400" fill="#52514e">размеры кратны 16 · указатель выровнен на 32 байта · ldm кратен 8 для half · все 32 нити варпа вызывают *_sync вместе</text></svg>

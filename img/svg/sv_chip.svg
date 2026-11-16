@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 440" width="760" height="440" role="img"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker><marker id="ahs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs><rect width="760" height="440" fill="#ffffff"/><rect x="10" y="10" width="740" height="396" rx="12" fill="#f2f2f0" stroke="#8a8986" stroke-width="1.4"/>
+<rect x="130" y="20" width="500" height="26" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="380.0" y="37.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">Хост-интерфейс PCI Express 3.0 × 16</text>
+<rect x="130" y="52" width="500" height="26" rx="6" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="380.0" y="69.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">GigaThread Engine — раздаёт блоки сетки по SM</text>
+<rect x="120" y="88" width="168" height="136" rx="8" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="204" y="104" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">GPC 0</text>
+<rect x="128" y="112" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="165" y="125" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="132" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="147.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="167" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="182.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="206" y="112" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="243" y="125" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="210" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="225.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="245" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="260.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="128" y="166" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="165" y="179" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="132" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="147.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="167" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="182.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="206" y="166" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="243" y="179" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="210" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="225.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="245" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="260.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="296" y="88" width="168" height="136" rx="8" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="380" y="104" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">GPC 1</text>
+<rect x="304" y="112" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="341" y="125" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="308" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="323.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="343" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="358.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="382" y="112" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="419" y="125" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="386" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="401.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="421" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="436.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="304" y="166" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="341" y="179" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="308" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="323.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="343" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="358.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="382" y="166" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="419" y="179" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="386" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="401.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="421" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="436.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="472" y="88" width="168" height="136" rx="8" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="556" y="104" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">GPC 2</text>
+<rect x="480" y="112" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="517" y="125" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="484" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="499.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="519" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="534.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="558" y="112" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="595" y="125" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="562" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="577.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="597" y="130" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="612.5" y="146.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="480" y="166" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="517" y="179" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="484" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="499.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="519" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="534.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="558" y="166" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="595" y="179" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="562" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="577.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="597" y="184" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="612.5" y="200.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="120" y="254" width="168" height="136" rx="8" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="204" y="270" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">GPC 3</text>
+<rect x="128" y="278" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="165" y="291" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="132" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="147.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="167" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="182.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="206" y="278" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="243" y="291" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="210" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="225.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="245" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="260.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="128" y="332" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="165" y="345" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="132" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="147.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="167" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="182.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="206" y="332" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="243" y="345" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="210" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="225.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="245" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="260.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="296" y="254" width="168" height="136" rx="8" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="380" y="270" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">GPC 4</text>
+<rect x="304" y="278" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="341" y="291" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="308" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="323.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="343" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="358.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="382" y="278" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="419" y="291" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="386" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="401.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="421" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="436.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="304" y="332" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="341" y="345" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="308" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="323.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="343" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="358.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="382" y="332" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="419" y="345" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="386" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="401.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="421" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="436.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="472" y="254" width="168" height="136" rx="8" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="556" y="270" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="700" fill="#0b0b0b">GPC 5</text>
+<rect x="480" y="278" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="517" y="291" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="484" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="499.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="519" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="534.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="558" y="278" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="595" y="291" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="562" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="577.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="597" y="296" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="612.5" y="312.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="480" y="332" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="517" y="345" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="484" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="499.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="519" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="534.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="558" y="332" width="74" height="48" rx="5" fill="#ffffff" stroke="#8a8986" stroke-width="1.4"/>
+<text x="595" y="345" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="middle" font-weight="600" fill="#52514e">TPC</text>
+<rect x="562" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="577.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="597" y="350" width="31" height="26" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="612.5" y="366.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">SM</text>
+<rect x="120" y="228" width="520" height="22" rx="6" fill="#fdeee6" stroke="#c4501b" stroke-width="1.4"/>
+<text x="380.0" y="243.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">L2-кэш 4 МБ (общий для всех SM)</text>
+<rect x="20" y="92" width="88" height="60" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="64.0" y="112.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">Контроллер</text>
+<text x="64.0" y="125.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">GDDR6</text>
+<text x="64.0" y="138.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">32 бит</text>
+<rect x="20" y="164" width="88" height="60" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="64.0" y="184.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">Контроллер</text>
+<text x="64.0" y="197.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">GDDR6</text>
+<text x="64.0" y="210.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">32 бит</text>
+<rect x="20" y="236" width="88" height="60" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="64.0" y="256.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">Контроллер</text>
+<text x="64.0" y="269.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">GDDR6</text>
+<text x="64.0" y="282.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">32 бит</text>
+<rect x="20" y="308" width="88" height="60" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="64.0" y="328.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">Контроллер</text>
+<text x="64.0" y="341.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">GDDR6</text>
+<text x="64.0" y="354.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">32 бит</text>
+<rect x="652" y="92" width="88" height="60" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="696.0" y="112.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">Контроллер</text>
+<text x="696.0" y="125.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">GDDR6</text>
+<text x="696.0" y="138.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">32 бит</text>
+<rect x="652" y="164" width="88" height="60" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="696.0" y="184.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">Контроллер</text>
+<text x="696.0" y="197.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">GDDR6</text>
+<text x="696.0" y="210.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">32 бит</text>
+<rect x="652" y="236" width="88" height="60" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="696.0" y="256.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">Контроллер</text>
+<text x="696.0" y="269.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">GDDR6</text>
+<text x="696.0" y="282.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">32 бит</text>
+<rect x="652" y="308" width="88" height="60" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="696.0" y="328.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle" font-weight="600" fill="#0b0b0b">Контроллер</text>
+<text x="696.0" y="341.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">GDDR6</text>
+<text x="696.0" y="354.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="8.5" text-anchor="middle" font-weight="400" fill="#52514e">32 бит</text>
+<text x="380" y="428" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="400" fill="#52514e">TU104: 6 GPC × 4 TPC × 2 SM = 48 SM; в Tesla T4 включено 40 SM → 2560 CUDA-ядер, 320 тензорных</text></svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330" role="img"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker><marker id="ahs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52514e"/></marker></defs><rect width="760" height="330" fill="#ffffff"/><rect x="10" y="10" width="740" height="280" rx="12" fill="#f2f2f0" stroke="#8a8986" stroke-width="1.4"/>
+<text x="380" y="30" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle" font-weight="700" fill="#0b0b0b">Гибридный вычислительный узел</text>
+<rect x="30" y="48" width="110" height="50" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="85.0" y="69.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">DDR</text>
+<text x="85.0" y="85.0" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">ОЗУ узла</text>
+<rect x="160" y="48" width="120" height="50" rx="6" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="220.0" y="77.55" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="600" fill="#0b0b0b">CPU 0</text>
+<rect x="480" y="48" width="120" height="50" rx="6" fill="#e8f0fd" stroke="#1d5bbf" stroke-width="1.4"/>
+<text x="540.0" y="77.55" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" font-weight="600" fill="#0b0b0b">CPU 1</text>
+<rect x="620" y="48" width="110" height="50" rx="6" fill="#efe9fb" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="675.0" y="69.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">DDR</text>
+<text x="675.0" y="85.0" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">ОЗУ узла</text>
+<line x1="140" y1="73" x2="160" y2="73" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<line x1="600" y1="73" x2="620" y2="73" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<line x1="280" y1="73" x2="480" y2="73" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<text x="380" y="66" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11" text-anchor="middle" font-weight="400" fill="#52514e">UPI / Infinity Fabric</text>
+<rect x="160" y="128" width="120" height="36" rx="6" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="220.0" y="150.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">PCIe-коммутатор</text>
+<rect x="480" y="128" width="120" height="36" rx="6" fill="#fdf3d8" stroke="#a87400" stroke-width="1.4"/>
+<text x="540.0" y="150.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">PCIe-коммутатор</text>
+<line x1="220" y1="98" x2="220" y2="128" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<line x1="540" y1="98" x2="540" y2="128" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<rect x="40" y="200" width="140" height="62" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="110.0" y="227.39999999999998" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">GPU 0</text>
+<text x="110.0" y="242.99999999999997" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">HBM: 2–8 ТБ/с</text>
+<rect x="220" y="200" width="140" height="62" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="290.0" y="227.39999999999998" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">GPU 1</text>
+<text x="290.0" y="242.99999999999997" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">HBM: 2–8 ТБ/с</text>
+<rect x="400" y="200" width="140" height="62" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="470.0" y="227.39999999999998" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">GPU 2</text>
+<text x="470.0" y="242.99999999999997" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">HBM: 2–8 ТБ/с</text>
+<rect x="580" y="200" width="140" height="62" rx="6" fill="#e3f4ea" stroke="#1d7a47" stroke-width="1.4"/>
+<text x="650.0" y="227.39999999999998" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" font-weight="600" fill="#0b0b0b">GPU 3</text>
+<text x="650.0" y="242.99999999999997" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">HBM: 2–8 ТБ/с</text>
+<line x1="220" y1="164" x2="110" y2="200" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<line x1="220" y1="164" x2="290" y2="200" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<line x1="540" y1="164" x2="470" y2="200" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<line x1="540" y1="164" x2="650" y2="200" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<path d="M 180 231 L 220 231" fill="none" stroke="#1d7a47" stroke-width="3"/>
+<path d="M 360 231 L 400 231" fill="none" stroke="#1d7a47" stroke-width="3"/>
+<path d="M 540 231 L 580 231" fill="none" stroke="#1d7a47" stroke-width="3"/>
+<text x="380" y="282" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#1d7a47">NVLink между GPU: сотни ГБ/с</text>
+<rect x="300" y="128" width="160" height="36" rx="6" fill="#fdeee6" stroke="#c4501b" stroke-width="1.4"/>
+<text x="380.0" y="150.025" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="600" fill="#0b0b0b">HCA InfiniBand</text>
+<line x1="280" y1="146" x2="300" y2="146" stroke="#52514e" stroke-width="1.5" marker-end="url(#ah)" marker-start="url(#ahs)"/>
+<text x="380" y="184" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="middle" font-weight="400" fill="#52514e">в интерконнект (200–400 Гбит/с)</text>
+<text x="380" y="316" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle" font-weight="400" fill="#52514e">Узкое место — PCIe: 3.0 × 16 ≈ 16 ГБ/с, 4.0 × 16 ≈ 32 ГБ/с в одну сторону; память GPU — ТБ/с</text></svg>
